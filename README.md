@@ -11,9 +11,9 @@ Thành lập và triển khai mạng LoRa Mesh cộng đồng tầm xa nhằm x�
 - Nhu cầu triển khai mạng kết nối độc lập, không phụ thuộc vào hạ tầng viễn thông truyền thống, ngày càng cao tại Việt Nam, đặc biệt trong các lĩnh vực nông nghiệp, năng lượng, logistics và quản lý hạ tầng công cộng.
 
 ## 3. Phạm vi triển khai
-- Giai đoạn 1: Thử nghiệm tại các khu vực đô thị và nông nghiệp trọng điểm (ví dụ: TP. Hồ Chí Minh, Hà Nội và Đà Nẵng).
-- Giai đoạn 2: Triển khai ứng dụng thông minh diện rộng, AI và phân tích dữ liệu lớn (Big Data).
-- Giai đoạn 3: Mở rộng kết nối các điểm mesh ở các thành phố khác và vùng sâu vùng xa.
+- Giai đoạn 1: Thử nghiệm tại các thành phố và tỉnh thành ở Việt Nam.
+- Giai đoạn 2: Triển khai ứng dụng cảm biến diện rộng.
+- Giai đoạn 3: Triển khai ứng dụng thông minh diện rộng.
 
 ## 4. Công nghệ và hạ tầng
 - Chuẩn LoRa 920-923Mhz theo quy định tần số tại Việt Nam.
