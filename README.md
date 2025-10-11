@@ -19,7 +19,7 @@ Thành lập và triển khai mạng LoRa Mesh cộng đồng tầm xa nhằm x�
 - Giai đoạn 3: Triển khai ứng dụng thông minh diện rộng.
 
 ## 4. Công nghệ và hạ tầng
-- Chuẩn LoRa 920-923Mhz theo quy định tần số tại Việt Nam.
+- Chuẩn LoRa 920-923Mhz theo đúng tần số và công suất theo quy định miễn xin giấy phép của cục Tần số Việt Nam
 - Sử dụng thiết bị node LoRa Mesh có khả năng tự động phát hiện, định tuyến và truyền tiếp gói tin (Mesh routing).
 - Hỗ trợ giao thức mã hóa dữ liệu đầu-cuối (E2E encryption) để bảo đảm an toàn thông tin.
 
