@@ -17,4 +17,5 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
 
-<img height="512" alt="image" src="https://github.com/user-attachments/assets/13dfdc61-43ac-41e9-9e21-81261478e963" />
+<img height="512" alt="image" src="https://github.com/user-attachments/assets/0597120b-09db-4606-b990-82c489038cc0" />
+
