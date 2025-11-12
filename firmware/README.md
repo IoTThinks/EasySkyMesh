@@ -36,3 +36,4 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 Coming soon
 
 ## Sensors
+Coming soon
