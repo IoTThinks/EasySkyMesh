@@ -18,7 +18,9 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * Click Flash
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
 
-## Change logs:
+## Repeaters
+This is the changelog for repeaters:
+
 ### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
 Reduced from 47mA down to 7mA. 
 * To deepsleep after 2 minutes.
@@ -30,4 +32,5 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
 
-
+## Companion
+Coming soon
