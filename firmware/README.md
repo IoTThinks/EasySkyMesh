@@ -30,6 +30,10 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
 
+Known issues:
+* Only send one advert at first boot or reset
+* OTA via WiFi is not working
+
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
 
 ## Companions
