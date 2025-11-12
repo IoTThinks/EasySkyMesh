@@ -24,10 +24,12 @@ This is the changelog for repeaters:
 
 ### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
 Reduced from 47mA down to 7mA. 
+* Based on MeshCore repeater v1.9.1 - main branch
 * To deepsleep after 2 minutes.
 
 ### firmware-repeater-heltecv3-v1.9.1-powersaving02.bin: 
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
+* Based on MeshCore repeater v1.9.1 - main branch
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
 
