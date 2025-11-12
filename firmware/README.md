@@ -4,7 +4,7 @@ Custom firmware files are for Meshcore.
 * These features will be pushed to MeshCore for public use.
 * Have more experimental / advances features.
 * The firmware is provided as it is without any warranty or support.
-* If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/)
+* If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/).
 
 Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
