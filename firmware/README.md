@@ -23,12 +23,12 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 ## Repeaters
 This is the changelog for repeaters:
 
-### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
+### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving01.bin)
 Reduced from 47mA down to 7mA. 
 * Based on MeshCore repeater v1.9.1 - main branch
 * To deepsleep after 2 minutes.
 
-### firmware-repeater-heltecv3-v1.9.1-powersaving02.bin: 
+### firmware-repeater-heltecv3-v1.9.1-powersaving02.bin: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving02.bin)
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
 * Based on MeshCore repeater v1.9.1 - main branch
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
@@ -39,6 +39,8 @@ Known issues:
 * OTA via WiFi is not working
 
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
+
+
 
 ## Companions
 Coming soon
