@@ -31,7 +31,7 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 * To use light sleep instead of deepsleep
 * No latency due to quicker wakeup
 * First boot: To wake up for 30s to send an advert at 18th second.
-* Light sleep: To wake up when receing a LoRa packet and light sleep again after 5s.
+* Light sleep: To wake up when receiving a LoRa packet and light sleep again after 5s.
 * Periodically wakeup: To wake up every 30 minutes to do some periodically tasks and and lightsleep again after 5s.
 * Known issue: OTA via WiFi is not working yet.
 
