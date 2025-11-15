@@ -9,17 +9,6 @@ Custom firmware files are for Meshcore.
 Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
 
-## Instruction to flash
-* Download the latest bin file [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
-* Go to Web Flasher: https://flasher.meshcore.co.uk/
-* Select Custom Firmware
-<img height="384" alt="image" src="https://github.com/user-attachments/assets/d75c1b40-a349-488f-b623-77fbab06ddca" />
-
-* Select the downloaded bin file
-* Do NOT erase device if you want to keep the existing configuration
-* Click Flash
-<img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
-
 ## Repeaters
 This is the changelog for repeaters:
 
@@ -40,10 +29,14 @@ Known issues:
 
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
 
+## Instruction to flash
+* Download the latest bin file [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* Go to Web Flasher: https://flasher.meshcore.co.uk/
+* Select Custom Firmware
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/d75c1b40-a349-488f-b623-77fbab06ddca" />
 
+* Select the downloaded bin file
+* Do NOT erase device if you want to keep the existing configuration
+* Click Flash
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
 
-## Companions
-Coming soon
-
-## Sensors
-Coming soon
