@@ -13,7 +13,7 @@ The latest firmware is on TOP:
 
 ### Power Saving 03: 
 Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
-* Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving03.bin), [Heltec v4](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving03.bin)
+* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving03.bin), [Heltec v4 (Testing)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving03.bin)
 * To use light sleep instead of deepsleep
 * No latency due to quicker wakeup
 * First boot: To wake up for 30s to send an advert at 18th second.
