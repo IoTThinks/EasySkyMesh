@@ -9,9 +9,18 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
 
 ## Repeaters
-The latest firmware is on TOP:
+The latest firmware is on TOP.
+* You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
 
-### Power Saving 03: 
+### Power Saving 04
+Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
+* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving04.bin)
+* Do not sleep when WiFi is not off likely due to OTA via WiFi. 
+* To reboot to out of OTA and back to powersaving mode.
+* Power saving mode: Still 10mA.
+* OTA mode: 100mA due to WiFi.
+
+### Power Saving 03
 Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 * Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving03.bin), [Heltec v4 (Testing)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving03.bin)
 * To use light sleep instead of deepsleep
@@ -24,7 +33,7 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/d968ed38-9965-487e-a02e-7a571f7e7d90" />
 
-### Power Saving 02:
+### Power Saving 02
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
 * Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving02.bin)
 * Based on MeshCore repeater v1.9.1 - main branch
@@ -34,7 +43,7 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
 
-### Power Saving 01:
+### Power Saving 01
 Reduced from 47mA down to 7mA. 
 * Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving01.bin)
 * Based on MeshCore repeater v1.9.1 - main branch
