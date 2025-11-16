@@ -18,7 +18,8 @@ Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
 * Do not sleep when WiFi is not off likely due to OTA via WiFi. 
 * To reboot to out of OTA and back to powersaving mode.
 * Power saving mode: Still 10mA.
-* OTA mode: 100mA due to WiFi.
+* OTA mode: 100mA due to WiFi. You MUST reboot to exit OTA to back to power saving mode if not doing OTA.
+* Source code: https://github.com/IoTThinks/MeshCore/tree/powersaving
 
 ### Power Saving 03
 Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
