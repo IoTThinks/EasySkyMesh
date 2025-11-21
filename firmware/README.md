@@ -18,7 +18,7 @@ The latest firmware is on **TOP**.
 
 ### Power Saving 04
 Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
-* Download of bin files: [HERE)](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * Do not sleep when WiFi is not off likely due to OTA via WiFi. 
 * To reboot to out of OTA and back to powersaving mode.
 * Power saving mode: Still 10mA.
@@ -27,7 +27,7 @@ Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
 
 ### Power Saving 03
 Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
-* Download of bin files: [HERE)](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * To use light sleep instead of deepsleep
 * No latency due to quicker wakeup
 * First boot: To wake up for 30s to send an advert at 18th second.
@@ -40,7 +40,7 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 
 ### Power Saving 02
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
-* Download of bin files: [HERE)](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * Based on MeshCore repeater v1.9.1 - main branch
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
@@ -50,7 +50,7 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 
 ### Power Saving 01
 Reduced from 47mA down to 7mA. 
-* Download of bin files: [HERE)](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * Based on MeshCore repeater v1.9.1 - main branch
 * To deepsleep after 2 minutes.
 
