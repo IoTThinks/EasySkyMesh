@@ -6,7 +6,7 @@ Custom firmware files are for Meshcore.
 * If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/).
 
 Naming convention: role-boardtype-feature[NUMBER]
-* For example: repeater-heltecv3-powersaving01.bin. This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
+* repeater-heltecv3-powersaving01.bin: This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
 * **IMPORTANT**: To use **.bin** if you already flashed a repeater firmware before and want to KEEP the settings.
 * **IMPORTANT**: To use **-merged.bin** if you flash for the FIRST TIME or you want to ERASE the flash and settings.
 
