@@ -17,7 +17,8 @@ The latest firmware is on **TOP**.
 ### Power Saving 05
 Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
 * Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
-* To wake up 2 minutes during FIRST boot or restart. This is to allow Repeater Setup via UART / Serial cable.
+* Fixed: To wake up 2 minutes during FIRST boot or restart. This is to allow Repeater Setup via UART / Serial cable.
+* Known issue: The clock drifts in 3 minutes in advance due to slow clock of ESP32 during light sleep.
 * Source code: https://github.com/IoTThinks/MeshCore/tree/powersaving
 
 ### Power Saving 04
