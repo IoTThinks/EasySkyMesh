@@ -5,10 +5,10 @@ Custom firmware files are for Meshcore.
 * The firmware is provided as it is without any warranty or support.
 * If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/).
 
-Pre-compiled bin files: [firmware](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+Pre-compiled bin files: [firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
 * Naming convention: role-boardtype-feature[NUMBER]
 * repeater-heltecv3-powersaving01.bin: This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
-* Please check the [Instruction to flash custom firmware](https://github.com/IoTThinks/LoRaMeshVietnam/edit/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
+* Please check the [Instruction to flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/edit/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
 
 ## Repeaters
 The latest firmware is on **TOP**.
