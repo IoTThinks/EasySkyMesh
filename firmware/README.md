@@ -22,11 +22,10 @@ The latest firmware is on **TOP**.
 ### Power Saving 06
 Based on MeshCore v1.10.0 (main).
 * New Features: Added temperature to telemetry using built-in temperature sensor on ESP32-S3 and NRF52840. This is to monitor the heat inside the boxes of Solar Repeaters under the Sun.
+* Known issue: Xiao S3 can not sleep due to its DIO1 is mapping to non-RTC GPIO39.
 * Source code: https://github.com/IoTThinks/MeshCore/tree/powersaving
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/179d177b-c2f2-409b-9732-6dfd2b71cead" />
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/90a58e51-f528-4d76-9be1-e5d12d7c9553" />
-
-
 
 ### Power Saving 05
 Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
