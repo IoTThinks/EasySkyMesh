@@ -1,7 +1,8 @@
 # Custom Meshcore Firmware
-Custom firmware files are for Meshcore.
-* Based on MeshCore and compatible with MeshCore. These features will be pushed to MeshCore for public use.
-* Have more experimental / advances features.
+Custom firmware files are for Meshcore. 
+* Have more experimental, advances features and bug fixes.
+* Based on MeshCore and compatible with MeshCore.
+* These features will be pushed to MeshCore to merge to the main development.
 * The firmware is provided as it is without any warranty or support.
 
 ## Have Suggestion?
