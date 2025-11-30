@@ -3,7 +3,7 @@ Custom firmware files are for Meshcore.
 * Based on MeshCore and compatible with MeshCore. These features will be pushed to MeshCore for public use.
 * Have more experimental / advances features.
 * The firmware is provided as it is without any warranty or support.
-* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
+* **Support**: If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
 
 Pre-compiled bin files: [firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
 * Naming convention: role-boardtype-feature[NUMBER]
