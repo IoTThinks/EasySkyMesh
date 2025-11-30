@@ -5,7 +5,7 @@ Custom firmware files are for Meshcore.
 * The firmware is provided as it is without any warranty or support.
 
 ## Support: 
-You may want to [sponsor us](https://github.com/sponsors/IoTThinks).
+You may want to [support us](https://github.com/sponsors/IoTThinks) for the effort.
 * If you want to support us
 * Or you want custom firmware
 * Or get your bug fixed, 
