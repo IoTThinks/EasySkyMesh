@@ -6,8 +6,8 @@ Custom firmware files are for Meshcore.
 * The firmware is provided as it is without any warranty or support.
 
 ## Have Suggestion?
-* To make the firmware better, you can give us your suggestions or wish features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
-* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
+* To make the firmware better, you can give us your suggestions or wish features [here](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
+* If you want to support us or want custom firmware or get your bug prioritized, visit [here](https://github.com/sponsors/IoTThinks).
 
 ## Pre-compiled bin files: 
 * Download [firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
