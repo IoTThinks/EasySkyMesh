@@ -1,18 +1,16 @@
 # Feature Meshcore Firmware - More features
-Feature firmware files are for Meshcore. 
-* Have more experimental, advances features and bug fixes.
+Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes.
 * These features will be pushed to MeshCore to merge to the main development.
 
 ## Have Suggestion?
 * To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
-## Pre-compiled binary files: 
+## Download: 
 * Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 * Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
 
 ## Repeaters
-The latest firmware is on **TOP**.
-* You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
+You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
 
 ### Power Saving 07 - 05 Dec 2025
 Improved power saving and added built-in temperature for ESP32S3 and NRF52 repeaters
