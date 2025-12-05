@@ -6,10 +6,6 @@ Feature firmware files are for Meshcore.
 ## Have Suggestion?
 * To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
-## Support
-* The firmware is provided as it is without any warranty or support.
-* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
-
 ## Pre-compiled binary files: 
 * Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 * Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
@@ -48,3 +44,6 @@ Bin files, release notes and source code here: https://github.com/IoTThinks/Mesh
 * Click Flash.
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/de4eb8ac-e90d-44c2-91a3-2977cfecdf85" />
 
+## Support
+* The firmware is provided as it is without any warranty or support.
+* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
