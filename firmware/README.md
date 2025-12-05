@@ -12,14 +12,11 @@ Feature firmware files are for Meshcore.
 
 ## Pre-compiled binary files: 
 * Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
-* Naming convention: role-boardtype-feature[NUMBER]
-* repeater-heltecv3-powersaving01.bin: This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
 * Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
 
 ## Repeaters
 The latest firmware is on **TOP**.
 * You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
-* Coming feature: Lightsleep for NRF52840 repeaters to achieve 4-6mA.
 
 ### Power Saving 07 - 05 Dec 2025
 Improved power saving and added built-in temperature for ESP32S3 and NRF52 repeaters
