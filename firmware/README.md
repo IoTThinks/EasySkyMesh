@@ -20,6 +20,16 @@ The latest firmware is on **TOP**.
 * You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
 * Coming feature: Lightsleep for NRF52840 repeaters to achieve 4-6mA.
 
+### Power Saving 07 - 05 Dec 2025
+Improved power saving and added built-in temperature for ESP32S3 and NRF52 repeaters
+- Based on MeshCore repeater v1.11.0
+- ESP32S3 boards: Heltec v3 and Heltec v4
+- NRF52 boards: RAK4631, Heltec T114 and T-Echo/T-Echo Lite
+- Powersaving: **9mA** for ESP32 boards and **8.5mA** for NRF52 boards. You need to measure at the battery cable (NOT from USB cable).
+- Built-in temperature in telemetry for ESP32S3 and NRF52 repeaters.
+
+Bin files, release notes and source code here: https://github.com/IoTThinks/MeshCore/releases/tag/PowerSaving07
+
 ### Power Saving 06
 Based on MeshCore v1.10.0 (main).
 * New Features: Added temperature to telemetry using built-in temperature sensor on ESP32-S3 and NRF52840. This is to monitor the heat inside the boxes of Solar Repeaters under the Sun.
