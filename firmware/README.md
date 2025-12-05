@@ -1,16 +1,17 @@
 # Feature Meshcore Firmware - More features
 Feature firmware files are for Meshcore. 
 * Have more experimental, advances features and bug fixes.
-* Based on MeshCore and compatible with MeshCore.
 * These features will be pushed to MeshCore to merge to the main development.
-* The firmware is provided as it is without any warranty or support.
 
 ## Have Suggestion?
 * To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
-* If you want to support us or want custom firmware or get your bug prioritized, visit [here](https://github.com/sponsors/IoTThinks).
 
-## Pre-compiled bin files: 
-* Download [firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
+## Support
+* The firmware is provided as it is without any warranty or support.
+* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
+
+## Pre-compiled binary files: 
+* Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 * Naming convention: role-boardtype-feature[NUMBER]
 * repeater-heltecv3-powersaving01.bin: This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
 * Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
@@ -97,8 +98,4 @@ Reduced from 47mA down to 7mA.
 * Select the downloaded bin file
 * Click Flash.
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/de4eb8ac-e90d-44c2-91a3-2977cfecdf85" />
-
-## Support
-* The firmware is provided as it is without any warranty or support.
-* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
 
