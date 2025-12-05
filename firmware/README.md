@@ -1,5 +1,5 @@
-# Custom Meshcore Firmware
-Custom firmware files are for Meshcore. 
+# Feature Meshcore Firmware - More features
+Feature firmware files are for Meshcore. 
 * Have more experimental, advances features and bug fixes.
 * Based on MeshCore and compatible with MeshCore.
 * These features will be pushed to MeshCore to merge to the main development.
