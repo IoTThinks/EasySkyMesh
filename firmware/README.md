@@ -46,5 +46,5 @@ Bin files, release notes and source code here: https://github.com/IoTThinks/Mesh
 * The firmware is provided as it is without any warranty or support.
 * If you want to support us or get your bug fixed, [Sponsor Us](https://github.com/sponsors/IoTThinks).
 
-## Custom Development
+## Professional Services
 * If you want custom development for your projects, [Contact Us](https://iotthinks.com/contact-us/)
