@@ -5,8 +5,8 @@ We build and share custom firmware and sensor solutions for LoRa mesh networks b
 - Using Meshcore as the backbone, we create scalable IoT solutions tailored for agriculture, smart cities, and industrial automation.
 
 Resources:
-- [Custom MeshCore firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
-- [Tài liệu và hướng dẫn cho Việt Nam](https://github.com/IoTThinks/EasySkyMesh/wiki)
+- [PowerSaving MeshCore firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md)
+- [Tài liệu hướng dẫn cho Việt Nam](https://github.com/IoTThinks/EasySkyMesh/wiki)
 
 ## Large-scale sensor applications
 To form mass-scale solutions for sensors using long range mesh technology.
