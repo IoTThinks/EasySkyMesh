@@ -1,4 +1,4 @@
-# Feature Meshcore Firmware - More features
+# PowerSaving Meshcore Firmware
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes.
 * These features will be pushed to MeshCore to merge to the main development.
 
