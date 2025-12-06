@@ -42,6 +42,9 @@ Bin files, release notes and source code here: https://github.com/IoTThinks/Mesh
 * Click Flash.
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/de4eb8ac-e90d-44c2-91a3-2977cfecdf85" />
 
-## Support & Custom Development
+## Support
 * The firmware is provided as it is without any warranty or support.
-* If you want to support us or want custom firmware or get your bug fixed, visit [HERE](https://github.com/sponsors/IoTThinks).
+* If you want to support us or get your bug fixed, [Sponsor Us](https://github.com/sponsors/IoTThinks).
+
+## Custom Development
+* If you want custom development for your projects, [Contact Us](https://iotthinks.com/contact-us/)
