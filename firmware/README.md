@@ -5,7 +5,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 ## Have Suggestion?
 * To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
-## Instruction & Download: 
+## Instruction & Downloads: 
 * Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware).
 * Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 
