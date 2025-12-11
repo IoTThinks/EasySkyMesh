@@ -10,7 +10,7 @@ Resources:
 ## PowerSaving MeshCore firmware: 
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes.
 * These features will be pushed to MeshCore to merge to the main development.
-* Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware).
+* Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md).
 * Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 
 ## Have Suggestion?
