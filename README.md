@@ -5,16 +5,15 @@ We build and share custom firmware and sensor solutions for LoRa mesh networks b
 - Using Meshcore as the backbone, we create scalable IoT solutions tailored for agriculture, smart cities, and industrial automation.
 
 Resources:
-- [PowerSaving MeshCore firmware](https://github.com/IoTThinks/EasySkyMesh/releases) &#128077;
 - [Tài liệu hướng dẫn cho Việt Nam](https://github.com/IoTThinks/EasySkyMesh/wiki) &#127483;&#127475; 
 
-## Large-scale sensor applications
-To form mass-scale solutions for sensors using long range mesh technology.
-- Smart Agriculture: Monitor soil moisture, temperature, rainfall, and soil/water quality.
-- Smart Cities: Manage street lighting, parking areas, warning systems, and environmental monitoring.
-- Industry & Energy: Monitor electrical equipment, solar energy systems, substations, and fuel storage facilities.
-- Security & Rescue: Establish mesh communication channels in emergency situations or areas without mobile coverage.
+## PowerSaving MeshCore firmware: 
+* Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware).
+* Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
 
+## Have Suggestion?
+* To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
+  
 ## Support
 * The firmware is provided as it is without any warranty or support.
 * If you want to support us or get your bug fixed, [Sponsor Us](https://github.com/sponsors/IoTThinks).
