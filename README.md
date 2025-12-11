@@ -12,8 +12,8 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Download at [RELEASES](https://github.com/IoTThinks/EasySkyMesh/releases)
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
 
-### Suggestion?
-* To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
+### Suggestion or support your boards?
+* You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
 ### Instruction
 #### For ESP32-S3 based boards (Heltec v3, Heltec v4...)
