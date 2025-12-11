@@ -1,27 +1,3 @@
-# PowerSaving Meshcore Firmware
-Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes.
-* These features will be pushed to MeshCore to merge to the main development.
-
-## Have Suggestion?
-* To make the firmware better, you can **suggest us** your wanted features [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
-
-## Instruction & Downloads: 
-* Please check the [**Instruction to flash custom firmware**](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware).
-* Download at [RELEASES](https://github.com/IoTThinks/MeshCore/releases/)
-
-## Repeaters
-You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
-
-### Power Saving 07 - 05 Dec 2025
-Improved power saving and added built-in temperature for ESP32S3 and NRF52 repeaters
-- Based on MeshCore repeater v1.11.0
-- ESP32S3 boards: Heltec v3 and Heltec v4
-- NRF52 boards: RAK4631, Heltec T114 and T-Echo/T-Echo Lite
-- Powersaving: **9mA** for ESP32 boards and **8.5mA** for NRF52 boards. You need to measure at the battery cable (NOT from USB cable).
-- Built-in temperature in telemetry for ESP32S3 and NRF52 repeaters.
-
-Bin files, release notes and source code here: https://github.com/IoTThinks/MeshCore/releases/tag/PowerSaving07
-
 ## Instruction to flash custom firmware
 ### For ESP32-S3 based boards (Heltec v3, Heltec v4...)
 * To download **.bin** if you already flashed a repeater firmware before and want to KEEP the settings. Do NOT erase device if you want to keep the existing configuration
