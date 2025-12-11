@@ -7,7 +7,7 @@ We build and share custom firmware and sensor solutions for LoRa mesh networks b
 Resources:
 - [Tài liệu hướng dẫn cho Việt Nam](https://github.com/IoTThinks/EasySkyMesh/wiki)
 
-## PowerSaving MeshCore firmware: 
+## 1. PowerSaving MeshCore firmware: 
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes. These features will be pushed to MeshCore to merge to the main development.
 * Download at [RELEASES](https://github.com/IoTThinks/EasySkyMesh/releases)
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
@@ -34,11 +34,11 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Click Flash.
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/de4eb8ac-e90d-44c2-91a3-2977cfecdf85" />
   
-## Support
+## 2. Support
 * The firmware is provided as it is without any warranty or support.
 * If you want to support us or get your bug fixed, [Sponsor Us](https://github.com/sponsors/IoTThinks).
 
-## Professional Services
+## 3. Professional Services
 * If you want custom development for your projects, [Contact Us](https://iotthinks.com/contact-us/)
 
 
