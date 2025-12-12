@@ -13,7 +13,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Instruction to [Flash Custom Firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md)
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
 
-### Suggestion or support your boards?
+### Have suggestion or want to support your boards?
 * You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
 ## 2. Community Support
