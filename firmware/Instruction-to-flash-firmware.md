@@ -1,5 +1,5 @@
-## Instruction to flash firmware
-### 1. For ESP32-S3 based boards (Heltec v3, Heltec v4...)
+# Instruction to flash firmware
+## 1. For ESP32-S3 based boards (Heltec v3, Heltec v4...)
 * To download **.bin** if you already flashed a repeater firmware before and want to KEEP the settings. Do NOT erase device if you want to keep the existing configuration
 * To download  **-merged.bin** if you flash for the FIRST TIME or you want to ERASE the flash and settings.
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
