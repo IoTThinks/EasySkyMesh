@@ -14,7 +14,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 ### Sensor support:
 Besides messaging, we can collect sensor data and transfer via existing MeshCore networks.
 * To use the above PowerSaving MeshCore firmware
-* To read instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
+* To read instruction to [Add sensors to repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-to-repeaters)
 
 ### Have Suggestion?
 * You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
