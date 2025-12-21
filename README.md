@@ -8,8 +8,12 @@ We build and share custom firmware and sensor solutions for LoRa mesh networks b
 ## 1. PowerSaving MeshCore firmware: 
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes. These features will be pushed to MeshCore to merge to the main development.
 * Download at [RELEASES](https://github.com/IoTThinks/EasySkyMesh/releases) &#128072;
-* Instruction to [Flash Custom Firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
+* Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
+
+### Sensor support:
+To use the PowerSaving MeshCore firmware and read the below instruction:
+* Instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
 
 ### Have suggestion?
 * You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
