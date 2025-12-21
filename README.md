@@ -11,11 +11,12 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
 
-### Sensor support for LoRa Mesh:
-To use the PowerSaving MeshCore firmware and read the below instruction:
-* Instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
+### Sensor support:
+Besides messaging, we can collect sensor data and transfer via LoRa Mesh.
+* To use the above PowerSaving MeshCore firmware
+* To read instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
 
-### Have suggestion?
+### Have Suggestion?
 * You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
 ## 2. Community Support
