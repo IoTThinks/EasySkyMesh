@@ -11,7 +11,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
 
-### Sensor support:
+### Sensor support for LoRa Mesh:
 To use the PowerSaving MeshCore firmware and read the below instruction:
 * Instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
 
