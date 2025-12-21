@@ -12,7 +12,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore/tags)
 
 ### Sensor support:
-Besides messaging, we can collect sensor data and transfer via LoRa Mesh.
+Besides messaging, we can collect sensor data and transfer via existing MeshCore networks.
 * To use the above PowerSaving MeshCore firmware
 * To read instruction to [Add sensors for repeaters](https://github.com/IoTThinks/EasySkyMesh/wiki/Add-sensors-for-repeaters)
 
