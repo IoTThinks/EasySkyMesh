@@ -10,6 +10,7 @@ This is the instruction to add sensors to repeaters:
 | Heltec T114 | 3.3v => 3.3v <br> GND => GND <br> **41** => SDA <br> **42** => SCL <br> 3.3v => SDO  | [Not tested yet] PowerSaving should work with GPIO 41,42 |
 | RAK4631  | 3.3v => 3.3v <br> GND => GND <br> SDA => SDA <br> SCL => SCL <br> 3.3v => SDO  | Both firmwares work <br> PowerSaving has additional features |
 | Xiao NRF52  | 3.3v => 3.3v <br> GND => GND <br> D7 => SDA <br> D6 => SCL <br> 3.3v => SDO  | Both firmwares work <br> PowerSaving has additional features |
+| Xiao S3  | 3.3v => 3.3v <br> GND => GND <br> D4 => SDA <br> D5 => SCL <br> 3.3v => SDO  | Both firmwares work <br> PowerSaving has additional features |
 
 ### 1. BME280
 The BME280 is a compact environmental sensor by Bosch that measures temperature, humidity, and barometric pressure.
