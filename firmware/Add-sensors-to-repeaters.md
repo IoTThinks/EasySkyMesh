@@ -14,9 +14,9 @@ Ping us to add your boards in [Discussion](https://github.com/IoTThinks/EasySkyM
 | ------------- | ------------- | ------------- |
 | Heltec v3 / v4 / WSL3 | 3.3v => 3.3v <br> GND => GND <br> 17 => SDA <br> 18 => SCL <br><br> GND => SDO (BME280/680)  | On Heltec v3, the GPIO17 and 18 are tiny pads in the middle of the board bottom. |
 | Heltec T114 | 3.3v => 3.3v <br> GND => GND <br> **0.16** => SDA <br> **0.13** => SCL <br><br> GND => SDO (BME280/680)| [Not tested yet] PowerSaving09+ supports it |
-| RAK4631  | 3.3v => 3.3v <br> GND => GND <br> SDA => SDA <br> SCL => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work <br> PowerSaving has additional features |
-| Xiao NRF52  | 3.3v => 3.3v <br> GND => GND <br> D7 => SDA <br> D6 => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work <br> PowerSaving has additional features |
-| Xiao S3  | 3.3v => 3.3v <br> GND => GND <br> D4 => SDA <br> D5 => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work <br> PowerSaving has additional features |
+| RAK4631  | 3.3v => 3.3v <br> GND => GND <br> SDA => SDA <br> SCL => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work |
+| Xiao NRF52  | 3.3v => 3.3v <br> GND => GND <br> D7 => SDA <br> D6 => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work |
+| Xiao S3  | 3.3v => 3.3v <br> GND => GND <br> D4 => SDA <br> D5 => SCL <br><br> GND => SDO (BME280/680) | Both firmwares work |
 
 ## 2. Boards
 This section is for boards with some notes.
