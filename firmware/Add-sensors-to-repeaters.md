@@ -33,6 +33,8 @@ This is the list of sensors currently supported by official MeshCore firmware.
 
 ### 3.1 GPS
 This is for GPS sensor.
+- For RAK boards: PIN_GPS_TX => 15 and PIN_GPS_RX => 16
+- [To be updated] For other boards: PIN_GPS_TX => XX and PIN_GPS_RX => YY. This depends on boards.
 
 ### 3.2 AHTX0
 This is AHT10 and AHT20 Humidity and Temperature Sensor.
