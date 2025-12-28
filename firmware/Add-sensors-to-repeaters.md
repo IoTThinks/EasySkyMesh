@@ -2,7 +2,10 @@
 This is the instruction to add sensors to repeaters:
 - The list is based on the official MeshCore firmware and the [PowerSaving MeshCore firmware](https://github.com/IoTThinks/EasySkyMesh?tab=readme-ov-file#1-powersaving-meshcore-firmware).
 - The list will be updated for new sensors.
-- PowerSaving firmware has powersaving feature (9mA power consumption) and additional features.
+
+PowerSaving firmware has powersaving feature and additional features.
+- 9mA power consumption for most ESP32S3 boards (Except Xiao S3)
+- 8.5mA power consumption for all NRF52 boards.
 
 ## 1. Quick Wiring
 Ping us to add your boards in [Discussion](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
