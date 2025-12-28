@@ -4,8 +4,8 @@ This is the instruction to add sensors to repeaters:
 - The list will be updated for new sensors.
 
 PowerSaving firmware has powersaving feature and additional features.
-- 9mA power consumption for most ESP32S3 boards (Except Xiao S3)
-- 8.5mA power consumption for all NRF52 boards.
+- **9mA** power consumption for most ESP32S3 boards (Except Xiao S3)
+- **8.5mA** power consumption for all NRF52 boards.
 
 ## 1. Quick Wiring
 Ping us to add your boards in [Discussion](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
