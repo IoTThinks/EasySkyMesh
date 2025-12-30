@@ -45,7 +45,7 @@ The BME680 is a compact environmental sensor by Bosch that measures temperature,
 * Note: As of 20 Dec 2025, MeshCore app can not show the Gas telemetry properly in Channel 1 or 2.
 * I2C address: **0x76**
 * For Adafruit BME280, you need to solder the Addr pad to use I2C address 0x76.
-* For other BME280 boards, you are strongly recommended to wire **GND to SDO** to force to use address 0x77. Else, the I2C address may jump either 0x76 and 0x77.
+* For other BME280 boards, you are strongly recommended to wire **GND to SDO** to force to use address 0x76. Else, the I2C address may jump either 0x76 and 0x77.
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/3dbdafc2-af58-4304-b5b6-221cc1817ce3" /> <img height="192" alt="image" src="https://github.com/user-attachments/assets/84393dbe-8ac5-4824-9a39-0a390db8c115" /> <img height="192" alt="image" src="https://github.com/user-attachments/assets/01494234-047b-49ee-96a0-3877ed307bd9" /> 
 
@@ -53,7 +53,7 @@ The BME680 is a compact environmental sensor by Bosch that measures temperature,
 The BME280 is a compact environmental sensor by Bosch that measures temperature, humidity, and barometric pressure.
 * I2C address: **0x76**
 * For Adafruit BME280, you need to solder the Addr pad to use I2C address 0x76
-* For other BME280 boards, you are strongly recommended to wire **GND to SDO** to force to use address 0x77. Else, the I2C address may jump either 0x76 and 0x77.
+* For other BME280 boards, you are strongly recommended to wire **GND to SDO** to force to use address 0x76. Else, the I2C address may jump either 0x76 and 0x77.
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/aef17a8b-994c-4090-84de-97d00e6d106c" /> <img height="192" alt="image" src="https://github.com/user-attachments/assets/488d290b-212e-4331-ac1a-e92bc1a964e5" /> <img height="192" alt="image" src="https://github.com/user-attachments/assets/d25c808f-5e58-4a0f-89ea-56e70fef6efb" />
 
