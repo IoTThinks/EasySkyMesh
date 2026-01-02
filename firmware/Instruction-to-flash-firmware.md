@@ -1,13 +1,22 @@
 # Instruction to flash firmware
-## 1. For ESP32-S3 based boards (Heltec v3, Heltec v4...)
+If you have a new and clean board:
+- You can flash the original MeshCore firmware at https://flasher.meshcore.co.uk/.
+- Then you can upgrade to PowerSaving firmware as below.
+
+If your board has installed a previous repeater firmware from MeshCore or PowerSaving:
+- You can upgrade to PowerSaving firmware as below.
+
+## 1. For ESP32-S3 based boards 
+Heltec v2, v3, v4, WSL3, Xiao S3, Station G2, Lilygo T3 S3...:
 * To download **.bin** if you already flashed a repeater firmware before and want to KEEP the settings. Do NOT erase device if you want to keep the existing configuration
-* To download  **-merged.bin** if you flash for the FIRST TIME or you want to ERASE the flash and settings.
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
 * Select Custom Firmware
 * Click Flash
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
 
-## 2. For NRF52840 based boards (RAK4631, T-Echo, T-Echo Lite...)
+## 2. For NRF52840 based boards
+RAK4631, Heltec T114, T-Echo, T-Echo Lite...
+
 ### Method 1:
 * To download **.zip** file
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
@@ -25,3 +34,5 @@
 * To drop the uf2 file in the NRF2BOOT folder
 * The device will auto reboot and close the NRF2BOOT folder.
 <img height="192" alt="image" src="https://github.com/user-attachments/assets/4648416a-b906-46e6-84c1-a13f3a7a2a62" />
+
+Enjoy.
