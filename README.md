@@ -9,6 +9,7 @@ Feature firmwares are for Meshcore. They have more experimental, advances featur
 * Download at [RELEASES](https://github.com/IoTThinks/EasySkyMesh/releases) &#128072;
 * Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore)
+* More information: [Power Saving firmware](https://github.com/IoTThinks/EasySkyMesh/wiki/Power-Saving-firmware)
 
 ### Sensor support:
 Besides messaging, we can collect sensor data and transfer via existing MeshCore networks.
