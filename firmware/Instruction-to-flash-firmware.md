@@ -24,7 +24,8 @@ RAK4631, Heltec T114, T-Echo, T-Echo Lite...
 
 ### Method 2:
 * To download uf2 file.
-* To press some keys to enter DFU mode and open the NRF2BOOT folder. RAK: Press RESET twice. T-echo Lite: Press RESET, wait for 1s, then press RESET.
+* To enter DFU mode, RAK: Press RESET twice. T-echo Lite: Press RESET, wait for 1s, then press RESET.
+* To open the NRF2BOOT folder
 * To drop the uf2 file in the NRF2BOOT folder
 * The device will auto reboot and close the NRF2BOOT folder.
 <img height="192" alt="image" src="https://github.com/user-attachments/assets/4648416a-b906-46e6-84c1-a13f3a7a2a62" />
