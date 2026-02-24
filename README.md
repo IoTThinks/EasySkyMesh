@@ -3,6 +3,7 @@ We build and share custom firmware and sensor solutions for LoRa mesh networks b
 - We develop optimized firmware for long-range, low-power mesh deployments.
 - We integrate advanced sensor modules to deliver reliable, real-time environmental and infrastructure data.
 - Using Meshcore as the backbone, we create scalable IoT solutions tailored for agriculture, smart cities, and industrial automation.
+- LoRa Mesh Vietnam: We deploy and join the deployment in [Vietnam](https://github.com/IoTThinks/LoRaMeshVietnam)
 
 ## 1. PowerSaving MeshCore firmware: 
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes. These features will be pushed to MeshCore to merge to the main development.
