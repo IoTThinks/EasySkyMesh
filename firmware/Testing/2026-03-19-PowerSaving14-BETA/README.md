@@ -8,7 +8,7 @@
 * Reduced power consumption for ESP32-based BLE companion from 12x mA down to 32-35 mA for Heltec v3 and 39mA Heltec v4.2. 
 * Other ESP32-based boards should be similar but untested. Please help to test.
 * BLE connection will be maintained all the times. 
-* You should feel no difference and delay compared to the stock MeshCore v1.14.
+* You should feel no difference and no delay compared to the stock MeshCore v1.14.
 
 Notes:
 * Heltec v4: Stable on battery / usb cable with iPhone.
