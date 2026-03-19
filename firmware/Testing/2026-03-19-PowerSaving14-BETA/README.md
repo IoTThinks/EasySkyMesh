@@ -1,6 +1,7 @@
 ### This is for BETA features:
 * Please set your expectation and be cautious.
 * Always test to your test / dev devices first.
+* Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md)
 
 ### Testing features:
 #### 1. PowerSaving for ESP32-based BLE companions - 3-4 days on 3000mAh battery
