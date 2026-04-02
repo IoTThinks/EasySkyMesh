@@ -2,7 +2,7 @@
 ## 1. For ESP32-S3 based boards 
 Heltec v2, v3, v4, WSL3, Xiao S3, Station G2, Lilygo T3 S3...
 * [More often] To download **upgrade.bin** if you already flashed a repeater firmware before and want to KEEP the settings. Do NOT erase device if you want to keep the existing configuration
-* To download **cleanInstall.bin** if you want flash a new fresh board
+* To download **freshInstall-merged.bin** if you want flash a new fresh board
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
 * Select Custom Firmware
 * Click Flash
