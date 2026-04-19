@@ -1,8 +1,11 @@
-## Power Saving 14.1.1 BLE BETA
+## Final Testing: Power Saving 14.1.1 BLE
 These firmware enables ESP32-based boards to use MeshCore BLE Companions at lower power 14-30mA instead of 80-120mA.
 * One 3000mAh battery can last an ESP32-based BLE companions (Heltec v3, Xiao S3...) for 6-7 days.
 * The Power Saving is set by default. No action is required.
 * It is a bit hard to Connect in iPhone for the first time as same as the default MeshCore firmware. Connect / Disconnect a few times or Forget the device in iPhone's bluetooth.
+
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/a08aa414-1559-4140-8099-a777d28c4d07" />
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/be23f499-8337-4265-8d92-b8a8be175ad8" />
 
 Please upgrade your **easy to access devices** first.
 * Download: Download **upgrade.bin** to upgrade existing devices or **freshInstall-merged.bin** for new devices.
