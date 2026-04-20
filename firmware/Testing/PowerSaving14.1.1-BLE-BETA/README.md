@@ -2,21 +2,21 @@
 The firmware enables ESP32-based boards to use MeshCore BLE Companions at lower power 14-30mA instead of 80-120mA.
 * One 3000mAh battery can last an ESP32-based BLE companions (Heltec v3, Xiao S3...) for 6-7 days.
 * The Power Saving is set by default. No action is required.
-* It is a bit hard to Connect in iPhone for the first time as same as the default MeshCore firmware. Connect / Disconnect a few times or Forget the device in iPhone's bluetooth.
+* IoTThinks actively pushes improvements to MeshCore mainline: [MeshCore PRs by IoTThinks](https://github.com/meshcore-dev/MeshCore/issues?q=is%3Apr%20(is%3Amerged%20OR%20is%3Aopen)%20author%3A%40IoTThinks)
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/a08aa414-1559-4140-8099-a777d28c4d07" />
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/be23f499-8337-4265-8d92-b8a8be175ad8" />
 
 Please upgrade your **easy to access devices** first.
 * Download: Download **upgrade.bin** to upgrade existing devices or **freshInstall-merged.bin** for new devices.
-* Instruction to [Flash Custom Firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md
+* Instruction to [Flash Custom Firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md)
 
 Tested devices:
-* Heltec v3: 15-20mA
-* Heltec v4.2 and v4.3 (FEM ON): 22-30mA.
-* Heltec v4.3 (FEM Off): 16-24mA
-* Xiao S3: 18-25mA
-* Xiao C3: 14-20mA
+* Heltec v3: 21mA
+* Heltec v4.2 and v4.3 (FEM ON): 25mA
+* Heltec v4.3 (FEM Off): 18mA
+* Xiao S3: 17A
+* Xiao C3: 15mA
 
 Please feedback your test results or ask to build for your boards
 * Discord: https://discord.gg/qBZ2a8Ke
