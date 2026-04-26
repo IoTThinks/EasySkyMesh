@@ -5,8 +5,12 @@ Heltec v2, v3, v4, WSL3, Xiao S3, Station G2, Lilygo T3 S3...
 * To download **freshInstall-merged.bin** if you want flash a new fresh board
 * Go to Web Flasher: [https://meshcore.io/flasher](https://meshcore.io/flasher)
 * Select Custom Firmware
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c49a9672-a99d-4267-9427-219b5e41a860" />
+
+* Most of the case, use upgrade.bin to upgrade. Do NOT select "Erase Device"
 * Click Flash
-<img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
+* For some boards, you need to press RESET button to start running.
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/84932b28-19eb-48ef-bcfb-cebe105454cc" />
 
 ## 2. For NRF52840 based boards
 RAK4631, Heltec T114, T-Echo, T-Echo Lite...
