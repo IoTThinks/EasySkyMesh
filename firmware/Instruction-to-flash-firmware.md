@@ -15,18 +15,19 @@ Heltec v2, v3, v4, WSL3, Xiao S3, Station G2, Lilygo T3 S3...
 ## 2. For NRF52840 based boards
 RAK4631, Heltec T114, T-Echo, T-Echo Lite...
 
-### Method 1:
+### Method 1: Zip file
 * To download **.zip** file
 * Go to Web Flasher: [https://meshcore.io/flasher](https://meshcore.io/flasher)
 * Select Custom Firmware
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c49a9672-a99d-4267-9427-219b5e41a860" />
+
 * Click Enter DFU mode
 * Do NOT erase device if you want to keep the existing configuration
 * Select the downloaded zip file
 * Click Flash.
-<img height="384" alt="image" src="https://github.com/user-attachments/assets/de4eb8ac-e90d-44c2-91a3-2977cfecdf85" />
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/65eb244f-0cf4-475e-b004-407bcd552cb2" />
 
-
-### Method 2:
+### Method 2: UF2 file
 * To download uf2 file.
 * To enter DFU mode, RAK: Press RESET twice. T-echo Lite: Press RESET, wait for 1s, then press RESET.
 * To open the NRF2BOOT folder
