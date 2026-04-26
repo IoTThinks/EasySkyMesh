@@ -13,7 +13,7 @@ RAK4631, Heltec T114, T-Echo, T-Echo Lite...
 
 ### Method 1:
 * To download **.zip** file
-* Go to Web Flasher: https://flasher.meshcore.co.uk/
+* Go to Web Flasher: [https://meshcore.io/flasher](https://meshcore.io/flasher)
 * Select Custom Firmware
 * Click Enter DFU mode
 * Do NOT erase device if you want to keep the existing configuration
