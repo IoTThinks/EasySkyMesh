@@ -3,7 +3,7 @@
 Heltec v2, v3, v4, WSL3, Xiao S3, Station G2, Lilygo T3 S3...
 * [More often] To download **upgrade.bin** if you already flashed a repeater firmware before and want to KEEP the settings. Do NOT erase device if you want to keep the existing configuration
 * To download **freshInstall-merged.bin** if you want flash a new fresh board
-* Go to Web Flasher: https://flasher.meshcore.co.uk/
+* Go to Web Flasher: [https://meshcore.io/flasher](https://meshcore.io/flasher)
 * Select Custom Firmware
 * Click Flash
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
