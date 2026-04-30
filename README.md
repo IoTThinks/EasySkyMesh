@@ -20,9 +20,9 @@ Besides messaging, we can collect sensor data and transfer via existing MeshCore
 ### Have Suggestion?
 * You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
 
-## 2. Community Support
-* The firmware is provided as it is without any warranty or support.
-* If you want to support us or get your bug fixed, [Sponsor Us](https://github.com/sponsors/IoTThinks).
+## 2. Support Us
+* Enjoying our work? 
+* Support us via [![Sponsor](https://img.shields.io/badge/Paypal-IoTThinks-0070ba?style=flat&logo=paypal&logoColor=white&labelColor=0070ba&color=555555)](https://www.paypal.com/ncp/payment/6FGWJJVC572VL) or [![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-IoTThinks-ea4aaa?style=flat&logo=github-sponsors&logoColor=white&labelColor=ea4aaa&color=555555)](https://github.com/sponsors/IoTThinks).
 
 ## 3. Professional Services
 * If you want custom development for your projects, [Contact Us](https://iotthinks.com/contact-us/)
