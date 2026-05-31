@@ -3,4 +3,4 @@
 
 Change logs:
 - For NRF52, added feature to keep time across resets.
-- For repeaters, added CLI to automatically reboot: set reboot.interval <hours> and get reboot.interval. <hours> is 0-255. 0 is disabled.
+- For repeaters, added CLI to automatically reboot: **set reboot.interval <hours>** and **get reboot.interval**. <hours> is 0-255. 0 is disabled.
