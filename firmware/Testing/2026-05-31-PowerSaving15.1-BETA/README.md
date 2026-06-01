@@ -4,6 +4,7 @@
 ### Change logs:
 - For NRF52, added feature to keep time across resets. This is to keep receiving adverts even after a reset / fault or after periodical reboots. This is already implemented in ESP32 for PowerSaving variant.
 - For repeaters, added CLI to automatically reboot: **set reboot.interval <hours>** and **get reboot.interval**. <hours> is 0-255. 0 is disabled.
+- Merged PR2586 - Set return path for repeaters by MikeCarper https://github.com/meshcore-dev/MeshCore/pull/2586. This is to let your repeater to reply in the same path to companion.
 
 ### Demo:
 - RAK4631 repeater reboots after 1 hour and still keep the time.
