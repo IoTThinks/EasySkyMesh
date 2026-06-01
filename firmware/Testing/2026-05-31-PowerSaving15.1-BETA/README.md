@@ -11,4 +11,8 @@
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/637cb2b1-edc1-47db-91b9-b4a0e0cffa00" />
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/4e6f1e79-cb60-400f-9d6a-e18b230decdf" />
 
+### Instruction:
+* Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
+* You can suggest us your wished features or have us to build the binary files for you [HERE](https://github.com/IoTThinks/EasySkyMesh/discussions/categories/ideas)
+* Support us via [![Sponsor](https://img.shields.io/badge/Paypal-IoTThinks-0070ba?style=flat&logo=paypal&logoColor=white&labelColor=0070ba&color=555555)](https://www.paypal.com/ncp/payment/6FGWJJVC572VL) or [![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-IoTThinks-ea4aaa?style=flat&logo=github-sponsors&logoColor=white&labelColor=ea4aaa&color=555555)](https://github.com/sponsors/IoTThinks).
 
