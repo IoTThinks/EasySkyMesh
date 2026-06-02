@@ -29,6 +29,7 @@ RAK4631, Heltec T114, T-Echo, T-Echo Lite...
 ### Method 1: OTA
 For repeaters / room servers, you can upgrade via OTA if in range of the repeaters / room servers's BLE
 * Enter CLI "start ota"
+* You may need to use [OTAFix](https://github.com/oltaco/Adafruit_nRF52_Bootloader_OTAFIX) before being able to do OTA for some boards
 * Use "nRF Device Firmware Update (DFU)" to upload the **upgrade.bin** file (not uf2 file)
 
 ### Method 2: Zip file
