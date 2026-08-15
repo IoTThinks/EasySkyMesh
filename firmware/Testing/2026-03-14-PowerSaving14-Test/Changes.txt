@@ -1,2 +1,0 @@
-PowerSaving 14 + below testing fixes
-* Disabled LED during LoRa transmission to keep the voltage stable.
