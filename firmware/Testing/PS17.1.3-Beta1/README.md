@@ -1,0 +1,9 @@
+[BETA] PowerSaving improvments and RXPSv2
+- RXPSv2
+- Added support of button press for ESP32 repeaters with powersaving on
+- Added PowerSaving for sensor firmware
+- Fixed crash if doing "gps" on ESP32 repeaters without GPS module
+- Added Tracker v2 and T-Deck
+- Added heltec_tracker_v2_companion_radio_usb_femoff and heltec_tracker_v2_companion_radio_usb_femon
+- Moved uptime to below battery icon. Shifted dots left.
+- Added board MKE-S3 (Vietnam)
