@@ -7,3 +7,5 @@
 - Added heltec_tracker_v2_companion_radio_usb_femoff and heltec_tracker_v2_companion_radio_usb_femon
 - Moved uptime to below battery icon. Shifted dots left.
 - Added board MKE-S3 (Vietnam)
+- (Repeaters and sensors) Added "If GPS is enabled in powersaving mode, request for GPS update upon telemetry request"
+- (Sensors) Added MCU temperature
