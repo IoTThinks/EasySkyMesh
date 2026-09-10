@@ -1,5 +1,5 @@
 # Easy SkyMesh - Build applications on MeshCore
-We build and share custom firmware and sensor solutions for LoRa mesh networks based on Meshcore.
+We build custom firmware and sensor solutions for LoRa mesh networks based on Meshcore.
 - We develop optimized firmware for long-range, low-power mesh deployments.
 - We integrate advanced sensor modules to deliver reliable, real-time environmental and infrastructure data.
 - Using Meshcore as the backbone, we create scalable IoT solutions tailored for agriculture, smart cities, and industrial automation.
