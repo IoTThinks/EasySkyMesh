@@ -1,4 +1,4 @@
-# Easy SkyMesh - Build applications on MeshCore
+# EasySkyMesh: IoT Solutions on MeshCore
 We build Long-Range and Low-Power IoT applications on MeshCore.
 - Develop optimized firmware for long-range, low-power mesh deployments.
 - Integrate sensors for reliable, real-time environmental and infrastructure data.
