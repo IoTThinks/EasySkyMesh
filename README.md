@@ -1,18 +1,18 @@
 # Easy SkyMesh - Build applications on MeshCore
-We build custom firmware and sensor solutions for LoRa mesh networks based on Meshcore.
-- We develop optimized firmware for long-range, low-power mesh deployments.
-- We integrate advanced sensor modules to deliver reliable, real-time environmental and infrastructure data.
-- Using Meshcore as the backbone, we create scalable IoT solutions tailored for agriculture, smart cities, and industrial automation.
-- LoRa Mesh Vietnam: We deploy and join the deployment in [Vietnam](https://github.com/IoTThinks/LoRaMeshVietnam)
+- We build Long-Range and Low-Power IoT applications on MeshCore.
+- Develop optimized firmware for long-range, low-power mesh deployments.
+- Integrate sensors for reliable, real-time environmental and infrastructure data.
+- Build scalable IoT solutions for agriculture, smart cities, and industrial automation.
+- LoRa Mesh Vietnam: We develop and deploy MeshCore-based solutions in [Vietnam](https://github.com/IoTThinks/LoRaMeshVietnam).
 
-## 1. PowerSaving MeshCore firmware: 
+## 1. PowerSaving Firmware: 
 Feature firmwares are for Meshcore. They have more experimental, advances features and bug fixes. These features will be pushed to MeshCore to merge to the main development.
 * Download at [RELEASES](https://github.com/IoTThinks/EasySkyMesh/releases) &#128072;
 * Instruction to [Flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Instruction-to-flash-firmware.md) &#128072;
 * Source code changes: [Source code](https://github.com/IoTThinks/MeshCore)
 * WiKi: [PowerSaving](https://github.com/IoTThinks/EasySkyMesh/wiki/PowerSaving)
 
-### Sensor support:
+### Sensor Support:
 Besides messaging, we can collect sensor data and transfer via existing MeshCore networks.
 * To use the above PowerSaving MeshCore firmware
 * To read instruction to [Add sensors to repeaters](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/Add-sensors-to-repeaters.md)
